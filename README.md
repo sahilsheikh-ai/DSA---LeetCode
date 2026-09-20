@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0088-merge-sorted-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1406-stone-game-iii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/1406-stone-game-iii) |
@@ -53,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0088-merge-sorted-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
