@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0037-sudoku-solver) |
 | [0088-merge-sorted-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0088-merge-sorted-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1406-stone-game-iii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/1406-stone-game-iii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0037-sudoku-solver) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -100,8 +102,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
