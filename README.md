@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1406-stone-game-iii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/1406-stone-game-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Two Pointers
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
