@@ -5,18 +5,18 @@ class Solution {
             return s;
         }
 
-        StringBuilder[] rows = new StringBuilder[numRows];
+        String[] rows = new String[numRows];
 
         for (int i = 0; i < numRows; i++) {
-            rows[i] = new StringBuilder();
+            rows[i] = "";
         }
 
         int row = 0;
         int direction = 1;
 
-        for (char c : s.toCharArray()) {
+        for (int i = 0; i < s.length(); i++) {
 
-            rows[row].append(c);
+            rows[row] += s.charAt(i);
 
             if (row == 0) {
                 direction = 1;
@@ -28,12 +28,12 @@ class Solution {
             row += direction;
         }
 
-        StringBuilder result = new StringBuilder();
+        String result = "";
 
-        for (StringBuilder r : rows) {
-            result.append(r);
+        for (int i = 0; i < numRows; i++) {
+            result += rows[i];
         }
 
-        return result.toString();
+        return result;
     }
 }
