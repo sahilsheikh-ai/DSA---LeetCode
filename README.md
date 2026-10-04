@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1406-stone-game-iii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0678-valid-parenthesis-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
 | ------- |
@@ -209,8 +212,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
