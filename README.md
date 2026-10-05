@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0045-jump-game-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
 |  |
