@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0189-rotate-array) |
 | [1406-stone-game-iii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0392-is-subsequence) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
