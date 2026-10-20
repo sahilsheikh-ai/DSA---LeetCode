@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1406-stone-game-iii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/1406-stone-game-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Two Pointers
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
