@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## String Matching
 |  |
 | ------- |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
