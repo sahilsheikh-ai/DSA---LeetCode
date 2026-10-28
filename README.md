@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
