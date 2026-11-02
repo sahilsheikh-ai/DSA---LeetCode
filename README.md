@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0412-fizz-buzz) |
 | [1406-stone-game-iii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/1406-stone-game-iii) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
@@ -297,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
