@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0412-fizz-buzz) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
