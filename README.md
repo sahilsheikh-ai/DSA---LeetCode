@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0088-merge-sorted-array) |
