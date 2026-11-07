@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
