@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0500-keyboard-row](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0500-keyboard-row) |
 | [1406-stone-game-iii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/1406-stone-game-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0500-keyboard-row) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0678-valid-parenthesis-string) |
