@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0412-fizz-buzz) |
 | [1406-stone-game-iii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/1406-stone-game-iii) |
@@ -108,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0292-nim-game) |
 | [1406-stone-game-iii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0292-nim-game) |
 | [1406-stone-game-iii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
@@ -398,4 +401,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
