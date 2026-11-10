@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0441-arranging-coins) |
 | [1406-stone-game-iii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0441-arranging-coins) |
 ## Stack
 |  |
 | ------- |
