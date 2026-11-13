@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0326-power-of-three) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0412-fizz-buzz) |
 ## Newton's Method
 |  |
@@ -417,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
