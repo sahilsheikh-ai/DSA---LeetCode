@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0088-merge-sorted-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Sahilsk-ai/DSA---LeetCode/tree/master/0412-fizz-buzz) |
